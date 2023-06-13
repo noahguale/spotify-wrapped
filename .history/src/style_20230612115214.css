@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Gotham'; /* Use your custom font's name here */
+  src: url('/public/fonts/GothamRoundedBook_21018.ttf') format('ttf'), 
+  font-weight: 400; /* normal */
+  font-style: normal;
+}
